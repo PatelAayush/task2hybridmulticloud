@@ -1,5 +1,5 @@
 provider "aws" {
-  version = "~> 2.0"
+  version = "~> 2.1"
   region  = "ap-south-1"
   profile = "default"
   access_key = "AKIAI2ZDAUT2SXC2NINA"
